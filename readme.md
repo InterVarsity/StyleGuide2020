@@ -31,7 +31,7 @@ As of 2/2020 this is highly experimental and should not be used in production. T
 
 ## Quick start
 
---- Instructions need to be updated and tested ---
+---  2/2020 Instructions need to be updated and tested ---
 Several quick start options are available:
 
 - Download the latest release. This repo
@@ -82,12 +82,14 @@ We provide compiled CSS and JS (`bootstrap.*`), as well as compiled and minified
 
 ## Documentation
 
+---  2/2020 Instructions need to be updated and tested ---
 Bootstrap's documentation, included in this repo in the root directory, is built with [Jekyll](https://jekyllrb.com/) and publicly hosted on GitHub Pages at <https://getbootstrap.com/>. The docs may also be run locally.
 
-Documentation search is powered by [Algolia's DocSearch](https://community.algolia.com/docsearch/). Working on our search? Be sure to set `debug: true` in `site/docs/4.4/assets/js/src/search.js` file.
+
 
 ### Running documentation locally
 
+---  2/2020 Instructions need to be updated and tested ---
 1. Run through the [tooling setup](https://getbootstrap.com/docs/4.4/getting-started/build-tools/#tooling-setup) to install Jekyll (the site builder) and other Ruby dependencies with `bundle install`.
 2. Run `npm install` to install Node.js dependencies.
 3. Run `npm start` to compile CSS and JavaScript files, generate our docs, and watch for changes.
