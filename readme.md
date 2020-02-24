@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://intervarsity.org/sites/all/modules/ivcf_topbar/images/IV_informal_horizontal_lockup_gradient.svg" alt="InterVarsity logo" width="200" height="40">
-  <h2> +</h2>
-  <a href="https://getbootstrap.com/">
-
-    <img src="https://getbootstrap.com/docs/4.4/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width="72" height="72">
-  </a>
-</p>
+  <img src="https://intervarsity.org/sites/all/modules/ivcf_topbar/images/IV_informal_horizontal_lockup_gradient.svg" alt="InterVarsity logo" width="200" height="40"><h2> +</h2><img src="https://getbootstrap.com/docs/4.4/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width="72" height="72"></p>
 
 <h3 align="center">Bootstrap</h3>
 
