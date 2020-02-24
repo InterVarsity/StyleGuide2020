@@ -11,9 +11,9 @@ InterVarsity branded Bootstrap.  Sleek, intuitive, and powerful front-end framew
   <a href="https://getbootstrap.com/docs/4.4/"><strong>Explore Bootstrap docs »</strong></a>
   <br>
   <br>
-
 </p>
-## Project Goal
+
+### Project Goal
 Build a customized version of Bootstrap that can be dropped in to any Bootstrap 4 project to have instant InterVarsity branding. This will also serve to standardize InterVarsity theme development around the industry standard practices of the Bootstrap framework.
 
 ## Warning:
