@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://intervarsity.org/sites/all/modules/ivcf_topbar/images/IV_informal_horizontal_lockup_gradient.svg"
- alt="InterVarsity logo" width="200" height="40"></p><h2> +</h2><p align="center"><img src="https://getbootstrap.com/docs/4.4/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width="72" height="72"></p>
+ alt="InterVarsity logo" width="200" height="40"></p><h2 align="center"> +</h2><p align="center"><img src="https://getbootstrap.com/docs/4.4/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width="72" height="72"></p>
 
 <h3 align="center">Bootstrap</h3>
 
@@ -16,7 +16,8 @@ InterVarsity branded Bootstrap.  Sleek, intuitive, and powerful front-end framew
 ## Project Goal
 Build a customized version of Bootstrap that can be dropped in to any Bootstrap 4 project to have instant InterVarsity branding. This will also serve to standardize InterVarsity theme development around the industry standard practices of the Bootstrap framework.
 
-## Warning: As of 2/2020 this is highly experimental and should not be used in production. There are known issues that will cause upgrade issues that need to be resolved.
+## Warning:
+As of 2/2020 this is highly experimental and should not be used in production. There are known issues that will cause upgrade issues that need to be resolved.
 
 ## Table of contents
 
