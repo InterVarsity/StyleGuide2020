@@ -34,7 +34,7 @@ $grays: map-merge(
   $grays
 );
 
-$revival_orange:        #E76127 !default;
+$revival_orange:        #0B3C61 !default;
 $fiya_gold:             #FFC60B !default;
 $fiya_gold_shade:       #f99d22 !default;
 $faithful_navy:         #0B3C61 !default;
@@ -44,8 +44,8 @@ $hopeful_blue_tint:     #A3Dce9 !default;
 $missional_blue:        #006880 !default;
 $missional_blue_shade:  #004750 !default;
 $missional_blue_tint:   #47c0bb !default;
-$text_gray:             #6D6E71 !default;
-$text_gray_tint:        #A7A9Ac !default;
+$text_gray:             #333333 !default;
+$text_gray_tint:        #808080 !default;
 $blue:                  #007bff !default; //used in several places
 $purple:                #6f42c1 !default; // used in a few along with bd-purple
 $red:                   #dc3545 !default; //used in several places
@@ -63,7 +63,7 @@ $colors: () !default;
 // stylelint-disable-next-line scss/dollar-variable-default
 $colors: map-merge(
   (
-    "revival_orange":       $revival_orange,
+    "revival_orange":       $blue,
     "blue":       $blue,
     "purple":     $purple,
     "red":        $red,
@@ -93,7 +93,7 @@ $colors: map-merge(
   $colors
 );
 
-$primary:       $revival_orange !default;
+$primary:       $missional_blue !default;
 $secondary:     $gray-600 !default;
 $success:       $hopeful_blue_shade !default;
 $info:          $missional_blue !default;
@@ -118,7 +118,7 @@ $theme-colors: map-merge(
   $theme-colors
 );
 
-// Set a specific jump point for requesting color jumps
+// Set a specific jump point for requesting color jumps 
 $theme-color-interval:      8% !default;
 
 // The yiq lightness value that determines when the lightness of color changes from "dark" to "light". Acceptable values are between 0 and 255.
@@ -143,7 +143,7 @@ $escaped-characters: (
 $enable-caret:                                true !default;
 $enable-rounded:                              true !default;
 $enable-shadows:                              false !default;
-$enable-gradients:                            false !default;
+$enable-gradients:                            true !default;
 $enable-transitions:                          true !default;
 $enable-prefers-reduced-motion-media-query:   true !default;
 $enable-hover-media-query:                    false !default; // Deprecated, no longer affects any compiled CSS
