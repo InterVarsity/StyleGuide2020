@@ -34,7 +34,7 @@ $grays: map-merge(
   $grays
 );
 
-$revival_orange:        #0B3C61 !default;
+$revival_orange:        #E76127 !default;
 $fiya_gold:             #FFC60B !default;
 $fiya_gold_shade:       #f99d22 !default;
 $faithful_navy:         #0B3C61 !default;
@@ -63,10 +63,10 @@ $colors: () !default;
 // stylelint-disable-next-line scss/dollar-variable-default
 $colors: map-merge(
   (
-    "revival_orange":       $blue,
-    "blue":       $blue,
-    "purple":     $purple,
-    "red":        $red,
+    "revival_orange": $revival_orange,
+    "blue": $blue,
+    "purple": $purple,
+    "red": $red,
     "fiya_gold": $fiya_gold,
     "fiya_gold_shade": $fiya_gold_shade,
     "faithful_navy": $faithful_navy,
