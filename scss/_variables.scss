@@ -34,21 +34,21 @@ $grays: map-merge(
   $grays
 );
 
-$revival_orange:        #E76127 !default;
-$fiya_gold:             #FFC60B !default;
-$fiya_gold_shade:       #f99d22 !default;
-$faithful_navy:         #0B3C61 !default;
-$hopeful_blue:          #48C1E1 !default;
-$hopeful_blue_shade:    #0094c9 !default;
-$hopeful_blue_tint:     #A3Dce9 !default;
-$missional_blue:        #006880 !default;
-$missional_blue_shade:  #004750 !default;
-$missional_blue_tint:   #47c0bb !default;
-$text_gray:             #333333 !default;
-$text_gray_tint:        #808080 !default;
-$blue:                  #007bff !default; //used in several places
-$purple:                #6f42c1 !default; // used in a few along with bd-purple
-$red:                   #dc3545 !default; //used in several places
+$revival_orange:        #E76127;
+$fiya_gold:             #FFC60B;
+$fiya_gold_shade:       #f99d22;
+$faithful_navy:         #0B3C61;
+$hopeful_blue:          #48C1E1;
+$hopeful_blue_shade:    #0094c9;
+$hopeful_blue_tint:     #A3Dce9;
+$missional_blue:        #006880;
+$missional_blue_shade:  #004750;
+$missional_blue_tint:   #47c0bb;
+$text_gray:             #333333;
+$text_gray_tint:        #808080;
+$blue:                  #007bff; //used in several places
+$purple:                #6f42c1; // used in a few along with bd-purple
+$red:                   #dc3545; //used in several places
 //$indigo:  #6610f2 !default; // not used
 //$pink:    #e83e8c !default; // not used
 //$orange:  #E76127 !default; // not used
@@ -93,7 +93,7 @@ $colors: map-merge(
   $colors
 );
 
-$primary:       $missional_blue !default;
+$primary:       $revival_orange !default;
 $secondary:     $gray-600 !default;
 $success:       $hopeful_blue_shade !default;
 $info:          $missional_blue !default;
